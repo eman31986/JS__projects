@@ -1,8 +1,12 @@
+body{
+    background-color: #dfe2ed;;
+}
 a{
     display: block;
     margin-top: 20px;
     font-size: 30px;
-    color: black;
+    text-align: center;
+    color:  #344aa3;;
     text-decoration: none;
 }
 a:hover{
